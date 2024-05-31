@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/game-hub/static/css/main.b6c5049e.css",
+    "main.js": "/game-hub/static/js/main.4de7bc02.js",
+    "static/media/game.png": "/game-hub/static/media/game.da5ee3861bd8b5a1b26e.png",
+    "static/media/ghostrunner.png": "/game-hub/static/media/ghostrunner.a386462f4a83436edc1b.png",
+    "static/media/red-dead.png": "/game-hub/static/media/red-dead.548e5c39fbe66faee83e.png",
+    "static/media/watch-dogs.png": "/game-hub/static/media/watch-dogs.7e3dafbd85bd88722f19.png",
+    "static/media/tsushima.png": "/game-hub/static/media/tsushima.2e75f5e45e3e2f43e046.png",
+    "index.html": "/game-hub/index.html",
+    "main.b6c5049e.css.map": "/game-hub/static/css/main.b6c5049e.css.map",
+    "main.4de7bc02.js.map": "/game-hub/static/js/main.4de7bc02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6c5049e.css",
+    "static/js/main.4de7bc02.js"
+  ]
+}
